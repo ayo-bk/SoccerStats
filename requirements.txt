@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+imblearn
+matplotlib
+seaborn
+requests
+BeautifulSoup4
